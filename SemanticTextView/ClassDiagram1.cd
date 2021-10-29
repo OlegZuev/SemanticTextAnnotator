@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SemanticTextAnnotator.NamedEntity">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAgAAAAhAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>NamedEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticTextAnnotator.DBPediaManager">
+    <Position X="1" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAAQAAAIAAAAAAAAAAIAAAAAAAAAAAAg=</HashCode>
+      <FileName>DBPediaManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticTextAnnotator.TextManager">
+    <Position X="4.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticTextAnnotator.DBPediaSearchRequestRDF">
+    <Position X="4.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DBPediaSearchRequestRDF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemanticTextAnnotator.SemanticTextAnnotator">
+    <Position X="1.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SemanticTextAnnotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

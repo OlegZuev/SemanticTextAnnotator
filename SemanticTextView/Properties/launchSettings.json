@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SemanticTextView": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "PYTHONNET_PYDLL": "C:\\Users\\Olegase\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll"
+      }
+    }
+  }
+}
